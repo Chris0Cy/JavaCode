@@ -1,0 +1,4 @@
+#File locations
+#Tue May 05 20:28:08 EDT 2015
+ExecutableDirectory=/u0/users/8/ychen181/workspace/labs/
+SourceDirectory=/u0/users/8/ychen181/workspace/labs/
